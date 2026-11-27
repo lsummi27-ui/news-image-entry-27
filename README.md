@@ -1,8 +1,8 @@
 # The World Today — 27 November 2026
 
-![competition](https://make.fun/badge/news-image-20261127.svg)
-![rank](https://make.fun/badge/news-image-20261127/lsummi27-ui/news-image-entry-27/rank.svg)
-![reward](https://make.fun/badge/news-image-20261127/lsummi27-ui/news-image-entry-27/reward.svg)
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/lsummi27-ui/news-image-entry-27/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/lsummi27-ui/news-image-entry-27/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
 A one-page newspaper front page that sums up the world news of Friday 27 November 2026: the Thanksgiving storm that postponed Macy's Thanksgiving Day Parade in New York for the first time in 100 years, Trump's proposed 25% tariff on Indian goods, the deadly Cairo tanker fire, the Bangkok refinery blaze, and nine more of the day's biggest stories from every region.
 
